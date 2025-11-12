@@ -1,0 +1,21 @@
+id,title,description,tags,url
+1,Introduction to Python,Learn Python basics for beginners,"python,programming,beginner",https://youtu.be/_uQrJ0TkZlc
+2,Object-Oreiented Programming in Java,Understand OOP concepts,"java, oop, classes",https://youtu.be/grEKMHGYyns
+3,HTML & CSS Full Course,Build websites with HML & CSS,"html, css, web, frontend",https://youtu.be/mU6anWqZJcc
+4,Machine Learning Crash Course,Intro to ML and Alogorithms,"machine learning, ai, python",https://youtu.be/GwIo3gDZCVQ
+5,Data Structures in C++,"Learn stacks, queues, trees","c++, data structures",https://youtu.be/B31LgI4Y4DQ
+6,JavaScript for Beginners,Get started with JavaScript,"javascript, web development",https://youtu.be/W6NZfCO5SIk
+7,React.js Tutorial,Build dynamic web apps with React,"react, javascript, frontend",https://youtu.be/Dorf8i6lCuk
+8,SQL Database Basics,Learn SQL queries and database management,"sql, database, data",https://youtu.be/HXV3zeQKqGY
+9,Android App Development,Create Android apps from scratch,"android, mobile development, java",https://youtu.be/fis26HvvDII
+10,Git & GitHub for Beginners,Version control with Git and GitHub,"git, github, version control",https://youtu.be/RGOj5yH7evk
+11,Data Analysis with Pandas,Analyze data using Pandas library,"pandas, data analysis, python",https://youtu.be/vmEHCJofslg
+12,Docker Essentials,Containerization with Docker,"docker, devops, containers",https://youtu.be/fqMOX6JJhGo
+13,Introduction to Kubernetes,Orchestrate containers with Kubernetes,"kubernetes, devops, containers",https://youtu.be/X48VuDVv0do
+14,Cybersecurity Basics,Learn the fundamentals of cybersecurity,"cybersecurity, security, networking",https://youtu.be/inWWhr5tnEA
+15,Cloud Computing with AWS,Get started with Amazon Web Services,"aws, cloud computing, devops",https://youtu.be/Nzv-tzU-UAw
+16,Agile Project Management,Manage projects using Agile methodology,"agile, project management, scrum",https://youtu.be/502ILHjX9EE
+17,Introduction to R Programming,Learn R for data analysis,"r programming, data analysis, statistics",https://youtu.be/_V8eKsto3Ug
+18,Deep Learning with TensorFlow,Build deep learning models,"deep learning, tensorflow, ai",https://youtu.be/tPYj3fFJGjk
+19,Mobile Game Development with Unity,Create games using Unity engine,"unity, game development, c#",https://youtu.be/IlKaB1etrik
+20,DevOps Fundamentals,Understand DevOps practices and tools,"devops, ci/cd, automation",https://youtu.be/zG1cM9VSINg
